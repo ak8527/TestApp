@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="button">Count</string>
+    <string name="svalue">0</string>
+</resources>
